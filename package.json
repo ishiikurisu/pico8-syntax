@@ -1,7 +1,7 @@
 {
   "name": "pico8-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "A simple syntax theme based on pico-8 by lexaloffle (http://www.lexaloffle.com/pico-8.php)",
   "keywords": [
     "syntax",
@@ -10,7 +10,7 @@
     "pico8",
     "pico-8"
   ],
-  "repository": "https://github.com/atom/pico8-syntax",
+  "repository": "https://github.com/catnipped/pico8-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
